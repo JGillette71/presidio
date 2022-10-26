@@ -32,6 +32,9 @@ All notable changes to this project will be documented in this file.
 * Updated `black` and `flake8` in pre-commit scripts
 * Updated docs for NLP engine
 
+#### Samples
+Updated batch anonymization sample to handle empty values
+
 ## [2.2.29] - 12.07.2022
 ### Added
 
